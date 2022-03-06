@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.planet{
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+    width: 70vw;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+}
+
+#description{
+padding-bottom: 30px;
+text-align: justify;
+}
